@@ -10,3 +10,6 @@ Older codes are kept to show my learning progress.
 1. Make sure Python is installed on your system.
 2. Clone the repository or download the files.
 3. Run any calculator file using:
+
+## Available Files
+- calculator_v1_basic.py — beginner-level basic calculator
